@@ -698,6 +698,16 @@
       "https://ella.sv": "News portal owned by La Prensa Grafica Group",
       "https://grupolpg.sv": "Domain owned by La Prensa Grafica Group"
    }
-  }
+  },
+    {
+      "contact": "support@tolteck.com",
+      "primary": "https://tolteck.com",
+      "associatedSites": [
+        "https://tolteck.app"
+      ],
+      "rationaleBySite": {
+        "https://tolteck.app": "Tolteck application"
+      }
+    }
   ]
 }
